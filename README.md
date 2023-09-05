@@ -8,7 +8,7 @@ Create a fake API using ChatGPT's website
 
 [中文文档（Chinese Docs）](https://github.com/xqdoo00o/ChatGPT-to-API/blob/master/README_ZH.md)
 ## Setup
-    
+    1
 ### Authentication
 
 Access token and PUID(only for PLUS account) retrieval has been automated by [OpenAIAuth](https://github.com/xqdoo00o/OpenAIAuth/) with account email & password.
